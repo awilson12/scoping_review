@@ -1,7 +1,7 @@
 Chemical,Limit,Limit Type,Units
 2-Propanol,400,PEL-TWA,ppm
 2-Propanol,200,TLV-TWA,ppm
-didecyl-dimethylammonium chloride (DDAC),1000,TLV-TWA,ppm
+didecyl-dimethylammonium chloride (DDAC),NA,NA,NA
 Ethanol,1000,PEL-TWA,ppm
 Formaldehyde,0.016,REL,ppm
 Formaldehyde,0.75,PEL-TWA,ppm
@@ -9,8 +9,7 @@ Succinaldehyde,NA,NA,NA
 Acetic acid,10,PEL-TWA,ppm
 Acetone,1000,PEL-TWA,ppm
 Acetone,250,REL,ppm
-Acetone,500,TLV,ppm
-alpha-Pinene,100,PEL-TWA,ppm
+Acetone,250,TLV,ppm
 alpha-Pinene,20,TLV,ppm
 Chloroform,50,PEL,ppm
 Chloroform,2,REL,ppm

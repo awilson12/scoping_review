@@ -130,8 +130,8 @@ measured_conc$limittype<-NA
 for (i in 1:length(chemicalnames)){
   measured_conc$Concentration[measured_conc$Chemical==chemicalnames[i] & measured_conc$Units!="ppm"]<-measured_conc$Concentration[measured_conc$Chemical==chemicalnames[i] & measured_conc$Units!="ppm"]*24.45/molecular.weights[i]
   measured_conc$Units[measured_conc$Chemical==chemicalnames[i] & measured_conc$Units!="ppm"]<-"ppm"
-  measured_conc$limits[measured_conc$Chemical==chemicalnames[i]]<-limits$Limit[limits$Chemical==chemicalnames[i]]
-  measured_conc$limittype[measured_conc$Chemical==chemicalnames[i]]<-limits$Limit.Type[limits$Chemical==chemicalnames[i]]
+  #measured_conc$limits[measured_conc$Chemical==chemicalnames[i]]<-limits$Limit[limits$Chemical==chemicalnames[i]]
+  #measured_conc$limittype[measured_conc$Chemical==chemicalnames[i]]<-limits$Limit.Type[limits$Chemical==chemicalnames[i]]
 }
 
 windows()
