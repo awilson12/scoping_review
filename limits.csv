@@ -1,0 +1,33 @@
+Chemical,Limit,Limit Type,Units
+2-Propanol,400,PEL-TWA,ppm
+2-Propanol,200,TLV-TWA,ppm
+didecyl-dimethylammonium chloride (DDAC),1000,TLV-TWA,ppm
+Ethanol,1000,PEL-TWA,ppm
+Formaldehyde,0.016,REL,ppm
+Formaldehyde,0.75,PEL-TWA,ppm
+Succinaldehyde,NA,NA,NA
+Acetic acid,10,PEL-TWA,ppm
+Acetone,1000,PEL-TWA,ppm
+Acetone,250,REL,ppm
+Acetone,500,TLV,ppm
+alpha-Pinene,100,PEL-TWA,ppm
+alpha-Pinene,20,TLV,ppm
+Chloroform,50,PEL,ppm
+Chloroform,2,REL,ppm
+Chloroform,10,TLV,ppm
+d-Limonene,100,Target Concentration,ppm
+Glutaraldehyde,0.2,REL,ppm
+Glutaraldehyde,0.05,TLV,ppm
+Hydrogen peroxide,1,PEL-TWA,ppm
+ortho-pthlalaldehyde (OPA),NA,NA,NA
+Peracetic acid,0.4,TLV-STEL,ppm
+"m,p-xylene",100,PEL-TWA,ppm
+o-xylene,100,PEL-TWA,ppm
+Toluene,200,PEL-TWA,ppm
+Toluene,100,REL,ppm
+Toluene,20,TLV,ppm
+Benzene,1,PEL-TWA,ppm
+Benzene,0.1,REL,ppm
+Benzene,0.5,TLV,ppm
+Ethylbenzene,100,PEL-TWA,ppm
+Ethylbenzene,20,TLV,ppm

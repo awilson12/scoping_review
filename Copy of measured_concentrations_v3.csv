@@ -1,0 +1,493 @@
+Source,Concentration,LOD,Type of Sample,Units,Type of Measure,Chemical,Role/Location,Sampling method
+Su et al.,82.7,NA,Mobile-area,ppb,geomean,Ethanol,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,32.5,NA,Mobile-area,ppb,geomean,Acetone,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,20.2,NA,Mobile-area,ppb,geomean,2-Propanol,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Mobile-area,ppb,geomean,Chloroform,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,1.22,NA,Mobile-area,ppb,geomean,d-Limonene,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,13.1,NA,Mobile-area,ppb,geomean,TVOC11,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,480,NA,Mobile-area,ppb,geomean,TVOC14,Clinical laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,269,NA,Personal,ppb,geomean,Ethanol,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,70.6,NA,Personal,ppb,geomean,Acetone,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,82.5,NA,Personal,ppb,geomean,2-Propanol,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Personal,ppb,geomean,Chloroform,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.38,NA,Personal,ppb,geomean,d-Limonene,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,126,NA,Personal,ppb,geomean,TVOC11,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,873,NA,Personal,ppb,geomean,TVOC14,Clinical laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,1037,NA,Mobile-area,ppb,geomean,Ethanol,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,21.3,NA,Mobile-area,ppb,geomean,Acetone,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,671,NA,Mobile-area,ppb,geomean,2-Propanol,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,0.12,NA,Mobile-area,ppb,geomean,Chloroform,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,0.14,NA,Mobile-area,ppb,geomean,alpha-Pinene,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,1.28,NA,Mobile-area,ppb,geomean,d-Limonene,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,4.52,NA,Mobile-area,ppb,geomean,TVOC11,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,1973,NA,Mobile-area,ppb,geomean,TVOC14,Nursing assistant,6-l Silonite™-evacuated canisters
+Su et al.,2594,NA,Mobile-area,ppb,geomean,Ethanol,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,40.8,NA,Personal,ppb,geomean,Acetone,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,1194,NA,Personal,ppb,geomean,2-Propanol,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,0.34,NA,Personal,ppb,geomean,Chloroform,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,0.16,NA,Personal,ppb,geomean,alpha-Pinene,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,1.57,NA,Personal,ppb,geomean,d-Limonene,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,15,NA,Personal,ppb,geomean,TVOC11,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,4367,NA,Personal,ppb,geomean,TVOC14,Nursing assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,2.31,NA,Mobile-area,ppb,geomean,Ethanol,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,17.9,NA,Mobile-area,ppb,geomean,Acetone,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,3667,NA,Mobile-area,ppb,geomean,2-Propanol,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Mobile-area,ppb,geomean,Chloroform,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,1,NA,Mobile-area,ppb,geomean,d-Limonene,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,16.6,NA,Mobile-area,ppb,geomean,TVOC11,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,3809,NA,Mobile-area,ppb,geomean,TVOC14,Dental assistant,6-l Silonite™-evacuated canisters
+Su et al.,1.54,NA,Mobile-area,ppb,geomean,Ethanol,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,23,NA,Personal,ppb,geomean,Acetone,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,1097,NA,Personal,ppb,geomean,2-Propanol,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Personal,ppb,geomean,Chloroform,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,0.16,NA,Personal,ppb,geomean,d-Limonene,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,10.7,NA,Personal,ppb,geomean,TVOC11,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,1565,NA,Personal,ppb,geomean,TVOC14,Dental assistant,0.4-l Silonite™-evacuated canisters
+Su et al.,148,NA,Mobile-area,ppb,geomean,Ethanol,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,12.4,NA,Mobile-area,ppb,geomean,Acetone,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,558,NA,Mobile-area,ppb,geomean,2-Propanol,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,0.07,NA,Mobile-area,ppb,geomean,Chloroform,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,1.71,NA,Mobile-area,ppb,geomean,d-Limonene,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,7.62,NA,Mobile-area,ppb,geomean,TVOC11,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,729,NA,Mobile-area,ppb,geomean,TVOC14,Dental laboratory technician,6-l Silonite™-evacuated canisters
+Su et al.,105,NA,Mobile-area,ppb,geomean,Ethanol,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,18.5,NA,Personal,ppb,geomean,Acetone,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,53.7,NA,Personal,ppb,geomean,2-Propanol,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Personal,ppb,geomean,Chloroform,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.19,NA,Personal,ppb,geomean,d-Limonene,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,3.92,NA,Personal,ppb,geomean,TVOC11,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,225,NA,Personal,ppb,geomean,TVOC14,Dental laboratory technician,0.4-l Silonite™-evacuated canisters
+Su et al.,36.2,NA,Mobile-area,ppb,geomean,Ethanol,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,12.7,NA,Mobile-area,ppb,geomean,Acetone,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,260,NA,Mobile-area,ppb,geomean,2-Propanol,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,0.12,NA,Mobile-area,ppb,geomean,Chloroform,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,0.51,NA,Mobile-area,ppb,geomean,d-Limonene,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,3.24,NA,Mobile-area,ppb,geomean,TVOC11,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,783,NA,Mobile-area,ppb,geomean,TVOC14,Endoscopy technician,6-l Silonite™-evacuated canisters
+Su et al.,113,NA,Mobile-area,ppb,geomean,Ethanol,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,34.6,NA,Personal,ppb,geomean,Acetone,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,241,NA,Personal,ppb,geomean,2-Propanol,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.18,NA,Personal,ppb,geomean,Chloroform,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.05,NA,Personal,ppb,geomean,alpha-Pinene,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.12,NA,Personal,ppb,geomean,d-Limonene,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,8.66,NA,Personal,ppb,geomean,TVOC11,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,577,NA,Personal,ppb,geomean,TVOC14,Endoscopy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,319,NA,Mobile-area,ppb,geomean,Ethanol,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,27.7,NA,Mobile-area,ppb,geomean,Acetone,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,546,NA,Mobile-area,ppb,geomean,2-Propanol,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,0.17,NA,Mobile-area,ppb,geomean,Chloroform,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,0.19,NA,Mobile-area,ppb,geomean,alpha-Pinene,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,2.15,NA,Mobile-area,ppb,geomean,d-Limonene,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,13.5,NA,Mobile-area,ppb,geomean,TVOC11,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,991,NA,Mobile-area,ppb,geomean,TVOC14,Floor stripper/waxer,6-l Silonite™-evacuated canisters
+Su et al.,636,NA,Mobile-area,ppb,geomean,Ethanol,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,41.6,NA,Personal,ppb,geomean,Acetone,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,707,NA,Personal,ppb,geomean,2-Propanol,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,0.17,NA,Personal,ppb,geomean,Chloroform,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,0.06,NA,Personal,ppb,geomean,alpha-Pinene,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,0.79,NA,Personal,ppb,geomean,d-Limonene,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,23,NA,Personal,ppb,geomean,TVOC11,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,1589,NA,Personal,ppb,geomean,TVOC14,Floor stripper/waxer,0.4-l Silonite™-evacuated canisters
+Su et al.,700,NA,Mobile-area,ppb,geomean,Ethanol,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,19.8,NA,Mobile-area,ppb,geomean,Acetone,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,647,NA,Mobile-area,ppb,geomean,2-Propanol,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,0.19,NA,Mobile-area,ppb,geomean,Chloroform,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,0.14,NA,Mobile-area,ppb,geomean,alpha-Pinene,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,2.02,NA,Mobile-area,ppb,geomean,d-Limonene,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,6.06,NA,Mobile-area,ppb,geomean,TVOC11,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,1519,NA,Mobile-area,ppb,geomean,TVOC14,Housekeeper,6-l Silonite™-evacuated canisters
+Su et al.,783,NA,Mobile-area,ppb,geomean,Ethanol,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,47.4,NA,Personal,ppb,geomean,Acetone,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,529,NA,Personal,ppb,geomean,2-Propanol,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,0.22,NA,Personal,ppb,geomean,Chloroform,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,0.06,NA,Personal,ppb,geomean,alpha-Pinene,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,1.09,NA,Personal,ppb,geomean,d-Limonene,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,16.1,NA,Personal,ppb,geomean,TVOC11,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,1605,NA,Personal,ppb,geomean,TVOC14,Housekeeper,0.4-l Silonite™-evacuated canisters
+Su et al.,2241,NA,Mobile-area,ppb,geomean,Ethanol,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,24.4,NA,Mobile-area,ppb,geomean,Acetone,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,777,NA,Mobile-area,ppb,geomean,2-Propanol,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,0.22,NA,Mobile-area,ppb,geomean,Chloroform,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,2.66,NA,Mobile-area,ppb,geomean,d-Limonene,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,6.36,NA,Mobile-area,ppb,geomean,TVOC11,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,3171,NA,Mobile-area,ppb,geomean,TVOC14,Licensed practical nurse,6-l Silonite™-evacuated canisters
+Su et al.,2199,NA,Mobile-area,ppb,geomean,Ethanol,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,54.3,NA,Personal,ppb,geomean,Acetone,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,695,NA,Personal,ppb,geomean,2-Propanol,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,0.57,NA,Personal,ppb,geomean,Chloroform,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Personal,ppb,geomean,alpha-Pinene,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,1.08,NA,Personal,ppb,geomean,d-Limonene,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,30.2,NA,Personal,ppb,geomean,TVOC11,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,4319,NA,Personal,ppb,geomean,TVOC14,Licensed practical nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,179,NA,Mobile-area,ppb,geomean,Ethanol,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,30.2,NA,Mobile-area,ppb,geomean,Acetone,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,217,NA,Mobile-area,ppb,geomean,2-Propanol,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,0.08,NA,Mobile-area,ppb,geomean,Chloroform,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,0.14,NA,Mobile-area,ppb,geomean,alpha-Pinene,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,12.2,NA,Mobile-area,ppb,geomean,d-Limonene,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,16,NA,Mobile-area,ppb,geomean,TVOC11,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,448,NA,Mobile-area,ppb,geomean,TVOC14,Medical appliance technician,6-l Silonite™-evacuated canisters
+Su et al.,144,NA,Mobile-area,ppb,geomean,Ethanol,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,33.1,NA,Personal,ppb,geomean,Acetone,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,177,NA,Personal,ppb,geomean,2-Propanol,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.18,NA,Personal,ppb,geomean,Chloroform,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,4.23,NA,Personal,ppb,geomean,d-Limonene,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,53.7,NA,Personal,ppb,geomean,TVOC11,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,411,NA,Personal,ppb,geomean,TVOC14,Medical appliance technician,0.4-l Silonite™-evacuated canisters
+Su et al.,9.25,NA,Mobile-area,ppb,geomean,Ethanol,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,10,NA,Mobile-area,ppb,geomean,Acetone,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,662,NA,Mobile-area,ppb,geomean,2-Propanol,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,0.09,NA,Mobile-area,ppb,geomean,Chloroform,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,1.08,NA,Mobile-area,ppb,geomean,d-Limonene,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,4,NA,Mobile-area,ppb,geomean,TVOC11,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,995,NA,Mobile-area,ppb,geomean,TVOC14,Medical equipment preparer,6-l Silonite™-evacuated canisters
+Su et al.,6.7,NA,Mobile-area,ppb,geomean,Ethanol,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,42.1,NA,Personal,ppb,geomean,Acetone,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,1310,NA,Personal,ppb,geomean,2-Propanol,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,0.21,NA,Personal,ppb,geomean,Chloroform,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,0.07,NA,Personal,ppb,geomean,alpha-Pinene,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,2.41,NA,Personal,ppb,geomean,d-Limonene,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,31.4,NA,Personal,ppb,geomean,TVOC11,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,2142,NA,Personal,ppb,geomean,TVOC14,Medical equipment preparer,0.4-l Silonite™-evacuated canisters
+Su et al.,68.7,NA,Mobile-area,ppb,geomean,Ethanol,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,24.4,NA,Mobile-area,ppb,geomean,Acetone,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,135,NA,Mobile-area,ppb,geomean,2-Propanol,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,0.16,NA,Mobile-area,ppb,geomean,Chloroform,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,0.17,NA,Mobile-area,ppb,geomean,alpha-Pinene,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,2.05,NA,Mobile-area,ppb,geomean,d-Limonene,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,18.5,NA,Mobile-area,ppb,geomean,TVOC11,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,1885,NA,Mobile-area,ppb,geomean,TVOC14,Pharmacist/pharmacy technician,6-l Silonite™-evacuated canisters
+Su et al.,97.7,NA,Mobile-area,ppb,geomean,Ethanol,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,31.3,NA,Personal,ppb,geomean,Acetone,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,194,NA,Personal,ppb,geomean,2-Propanol,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.1,NA,Personal,ppb,geomean,Chloroform,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,0.38,NA,Personal,ppb,geomean,d-Limonene,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,9.73,NA,Personal,ppb,geomean,TVOC11,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,1955,NA,Personal,ppb,geomean,TVOC14,Pharmacist/pharmacy technician,0.4-l Silonite™-evacuated canisters
+Su et al.,396,NA,Mobile-area,ppb,geomean,Ethanol,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,18.7,NA,Mobile-area,ppb,geomean,Acetone,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,201,NA,Mobile-area,ppb,geomean,2-Propanol,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,0.16,NA,Mobile-area,ppb,geomean,Chloroform,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,1,NA,Mobile-area,ppb,geomean,d-Limonene,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,4.82,NA,Mobile-area,ppb,geomean,TVOC11,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,1323,NA,Mobile-area,ppb,geomean,TVOC14,Registered nurse,6-l Silonite™-evacuated canisters
+Su et al.,1063,NA,Mobile-area,ppb,geomean,Ethanol,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,30.9,NA,Personal,ppb,geomean,Acetone,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,288,NA,Personal,ppb,geomean,2-Propanol,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,0.18,NA,Personal,ppb,geomean,Chloroform,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,0.28,NA,Personal,ppb,geomean,d-Limonene,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,6.3,NA,Personal,ppb,geomean,TVOC11,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,1950,NA,Personal,ppb,geomean,TVOC14,Registered nurse,0.4-l Silonite™-evacuated canisters
+Su et al.,403,NA,Mobile-area,ppb,geomean,Ethanol,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,12.5,NA,Mobile-area,ppb,geomean,Acetone,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,49.1,NA,Mobile-area,ppb,geomean,2-Propanol,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,0.08,NA,Mobile-area,ppb,geomean,Chloroform,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,0.19,NA,Mobile-area,ppb,geomean,alpha-Pinene,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,0.76,NA,Mobile-area,ppb,geomean,d-Limonene,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,6.57,NA,Mobile-area,ppb,geomean,TVOC11,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,646,NA,Mobile-area,ppb,geomean,TVOC14,Respiratory therapist,6-l Silonite™-evacuated canisters
+Su et al.,522,NA,Mobile-area,ppb,geomean,Ethanol,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,41.7,NA,Personal,ppb,geomean,Acetone,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,20.1,NA,Personal,ppb,geomean,2-Propanol,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.13,NA,Personal,ppb,geomean,Chloroform,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.05,NA,Personal,ppb,geomean,alpha-Pinene,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.16,NA,Personal,ppb,geomean,d-Limonene,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,15.7,NA,Personal,ppb,geomean,TVOC11,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,2120,NA,Personal,ppb,geomean,TVOC14,Respiratory therapist,0.4-l Silonite™-evacuated canisters
+Su et al.,237,NA,Mobile-area,ppb,geomean,Ethanol,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,14.7,NA,Mobile-area,ppb,geomean,Acetone,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,459,NA,Mobile-area,ppb,geomean,2-Propanol,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,0.08,NA,Mobile-area,ppb,geomean,Chloroform,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,0.15,NA,Mobile-area,ppb,geomean,alpha-Pinene,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,0.37,NA,Mobile-area,ppb,geomean,d-Limonene,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,2.29,NA,Mobile-area,ppb,geomean,TVOC11,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,767,NA,Mobile-area,ppb,geomean,TVOC14,Surgical technologist,6-l Silonite™-evacuated canisters
+Su et al.,547,NA,Mobile-area,ppb,geomean,Ethanol,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,30.2,NA,Personal,ppb,geomean,Acetone,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,438,NA,Personal,ppb,geomean,2-Propanol,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.11,NA,Personal,ppb,geomean,Chloroform,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.04,NA,Personal,ppb,geomean,alpha-Pinene,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,0.5,NA,Personal,ppb,geomean,d-Limonene,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,32.3,NA,Personal,ppb,geomean,TVOC11,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Su et al.,1087,NA,Personal,ppb,geomean,TVOC14,Surgical technologist,0.4-l Silonite™-evacuated canisters
+Vincent et al.,Below LOD,10.18,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,2.5,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,9.92,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,2.57,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,11.19,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,2.8,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,2.15,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,2.15,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Vincent et al.,Below LOD,187.42,Area,ug/m^3,point value,didecyl-dimethylammonium chloride (DDAC),Hospital working station,XAD-2 resin
+Nayebzadeh,0.012,NA,Personal,ppm,geomean,Glutaraldehyde,Location with appropriate work practices,"SKC personal sampling pump and air-monitoring cassette with two glass fiber filters (2,4-dinitrophenylhydrazine and phosphoric acid)"
+Nayebzadeh,0.051,NA,Personal,ppm,geomean,Glutaraldehyde,Location with poor work practices,"SKC personal sampling pump and air-monitoring cassette with two glass fiber filters (2,4-dinitrophenylhydrazine and phosphoric acid)"
+Nayebzadeh,0.08,NA,Personal,ppm,geomean,Glutaraldehyde,Location with unsafe practices,"SKC personal sampling pump and air-monitoring cassette with two glass fiber filters (2,4-dinitrophenylhydrazine and phosphoric acid)"
+Vyas,0.068,NA,Personal,mg/m^3,geomean,Glutaraldehyde,"Decontamination unit, ventilation only, endoscopy unit",Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.118,NA,Personal,mg/m^3,geomean,Glutaraldehyde,"Decontamination unit and negative pressure room ventilation, endoscopy unit",Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.062,NA,Personal,mg/m^3,geomean,Glutaraldehyde,"Decontamination unit and positive pressure room ventilation, endoscopy unit",Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.014,NA,Personal,mg/m^3,geomean,Glutaraldehyde,"Negative pressure room ventilation only, endoscopy unit",Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.021,NA,Personal,mg/m^3,geomean,Glutaraldehyde,"No ventilation, endoscopy unit",Occupational Safety and Health Administration (OSHA) method 64
+Jachuck,0.12,NA,Personal,ppm,point value,Glutaraldehyde,"Endoscopy unit, theater nurse","gas washing liquid impingers containing
+3-methyl-2-benzothiazolinone hydrazone hydrochloridereagent solution "
+Jachuck,0.05,NA,Area,ppm,point value,Glutaraldehyde,"Corridor bench, endoscopy unit","gas washing liquid impingers containing
+3-methyl-2-benzothiazolinone hydrazone hydrochloridereagent solution "
+Campbell,0.68,NA,Personal,mg/m^3,point value,Glutaraldehyde,Operator's lapel,Not specified
+Campbell,0.35,NA,Personal,mg/m^3,point value,Glutaraldehyde,Nex to operator's head,Not specified
+Gannon,0.16,NA,Personal,mg/m^3,median,Glutaraldehyde,"Endoscopy unit, short term","1 1/min through glass fibre filters impregnated with 2,4-dinitrophenylhydrazine and phosphoric acid. 14"
+Gannon,0.041,NA,Personal,mg/m^3,median,Glutaraldehyde,"Endoscopy unit, long term","1 1/min through glass fibre filters impregnated with 2,4-dinitrophenylhydrazine and phosphoric acid. 14"
+Gannon,0.17,NA,Area,mg/m^3,median,Glutaraldehyde,"Endoscopy, short term","1 1/min through glass fibre filters impregnated with 2,4-dinitrophenylhydrazine and phosphoric acid. 14"
+Gannon,0.016,NA,Area,mg/m^3,median,Glutaraldehyde,Endoscopy long term,"1 1/min through glass fibre filters impregnated with 2,4-dinitrophenylhydrazine and phosphoric acid. 14"
+Mwanga,0.009,NA,Personal,ppm,median,ortho-pthlalaldehyde (OPA),Clinical departments in a tertiary hospital,"Passive sampling used TraceAir AT580 monitors (Assay Technology, Livermore, CA), which were analysed for OPA and formaldehyde"
+Fujita,1.7,NA,Area,ppb,point value,ortho-pthlalaldehyde (OPA),Near bucket in endoscopy unit,"Active air sampling was performed at 1.0 l/min for 30 min using a 2,4-dinitrophenylhydrazine-silica cartridge (LpDNPH S10, Spelco, Bellefonte, PA, USA). The hydrazone derivative of OPA was eluted with acetonitrile and analyzed with a high performance liquid chromatograph (HP1100, Ailent, USA) with a UV detector (UV-VIS, Ailent, USA)"
+Fujita,2,NA,Area,ppb,point value,ortho-pthlalaldehyde (OPA),Near bucket in endoscopy unit,"Active air sampling was performed at 1.0 l/min for 30 min using a 2,4-dinitrophenylhydrazine-silica cartridge (LpDNPH S10, Spelco, Bellefonte, PA, USA). The hydrazone derivative of OPA was eluted with acetonitrile and analyzed with a high performance liquid chromatograph (HP1100, Ailent, USA) with a UV detector (UV-VIS, Ailent, USA)"
+Fujita,1.2,NA,Area,ppb,point value,ortho-pthlalaldehyde (OPA),Near bucket in endoscopy unit,"Active air sampling was performed at 1.0 l/min for 30 min using a 2,4-dinitrophenylhydrazine-silica cartridge (LpDNPH S10, Spelco, Bellefonte, PA, USA). The hydrazone derivative of OPA was eluted with acetonitrile and analyzed with a high performance liquid chromatograph (HP1100, Ailent, USA) with a UV detector (UV-VIS, Ailent, USA)"
+Fujita,0.4,NA,Area,ppb,point value,ortho-pthlalaldehyde (OPA),Endoscopy room,"Active air sampling was performed at 1.0 l/min for 30 min using a 2,4-dinitrophenylhydrazine-silica cartridge (LpDNPH S10, Spelco, Bellefonte, PA, USA). The hydrazone derivative of OPA was eluted with acetonitrile and analyzed with a high performance liquid chromatograph (HP1100, Ailent, USA) with a UV detector (UV-VIS, Ailent, USA)"
+Vyas,0.06,NA,Personal,mg/m^3,geomean,Glutaraldehyde,Peak in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.01,NA,Personal,mg/m^3,geomean,Glutaraldehyde,Background in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.11,NA,Personal,mg/m^3,geomean,Succinaldehyde,Peak in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.02,NA,Personal,mg/m^3,geomean,Succinaldehyde,Background in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.03,NA,Personal,mg/m^3,geomean,Formaldehyde,Peak in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Vyas,0.01,NA,Personal,mg/m^3,geomean,Formaldehyde,Background in endoscopy,personal samplers and the Occupational Safety and Health Administration (OSHA) method 64
+Hawley,10,NA,Personal,ppb,geomean,Hydrogen peroxide,Main OR,mix of breathing zone and moving area samples
+Hawley,144,NA,Personal,ppb,geomean,Hydrogen peroxide,WCBC,mix of breathing zone and moving area samples
+Hawley,85,NA,Personal,ppb,geomean,Hydrogen peroxide,"WCBC, Triage",mix of breathing zone and moving area samples
+Hawley,167,NA,Personal,ppb,geomean,Hydrogen peroxide,WCBC OR,mix of breathing zone and moving area samples
+Hawley,55,NA,Personal,ppb,geomean,Hydrogen peroxide,Acute and postpartum,mix of breathing zone and moving area samples
+Hawley,106,NA,Personal,ppb,geomean,Hydrogen peroxide,Medical surgical,mix of breathing zone and moving area samples
+Hawley,19,NA,Personal,ppb,geomean,Hydrogen peroxide,"Surgery, orthopedics",mix of breathing zone and moving area samples
+Hawley,61,NA,Personal,ppb,geomean,Hydrogen peroxide,ICU,mix of breathing zone and moving area samples
+Hawley,45,NA,Personal,ppb,geomean,Hydrogen peroxide,Oncology,mix of breathing zone and moving area samples
+Hawley,60,NA,Personal,ppb,geomean,Hydrogen peroxide,NICU,mix of breathing zone and moving area samples
+Hawley,12,NA,Personal,ppb,geomean,Hydrogen peroxide,Outpatient Clinic,mix of breathing zone and moving area samples
+Hawley,25,NA,Personal,ppb,mean,Hydrogen peroxide,Public BR,mix of breathing zone and moving area samples
+Hawley,26,NA,Personal,ppb,geomean,Hydrogen peroxide,Float,mix of breathing zone and moving area samples
+Hawley,6,NA,Personal,ppb,mean,Hydrogen peroxide,Floors,mix of breathing zone and moving area samples
+Hawley,2,NA,Personal,ppb,geomean,Peracetic acid,Main OR,mix of breathing zone and moving area samples
+Hawley,20,NA,Personal,ppb,geomean,Peracetic acid,WCBC,mix of breathing zone and moving area samples
+Hawley,30,NA,Personal,ppb,geomean,Peracetic acid,"WCBC, Triage",mix of breathing zone and moving area samples
+Hawley,21,NA,Personal,ppb,geomean,Peracetic acid,WCBC OR,mix of breathing zone and moving area samples
+Hawley,15,NA,Personal,ppb,geomean,Peracetic acid,Acute and postpartum,mix of breathing zone and moving area samples
+Hawley,21,NA,Personal,ppb,geomean,Peracetic acid,Medical surgical,mix of breathing zone and moving area samples
+Hawley,2,NA,Personal,ppb,geomean,Peracetic acid,"Surgery, orthopedics",mix of breathing zone and moving area samples
+Hawley,15,NA,Personal,ppb,geomean,Peracetic acid,ICU,mix of breathing zone and moving area samples
+Hawley,5,NA,Personal,ppb,geomean,Peracetic acid,Oncology,mix of breathing zone and moving area samples
+Hawley,5,NA,Personal,ppb,geomean,Peracetic acid,NICU,mix of breathing zone and moving area samples
+Hawley,5,NA,Personal,ppb,geomean,Peracetic acid,Outpatient Clinic,mix of breathing zone and moving area samples
+Hawley,5,NA,Personal,ppb,mean,Peracetic acid,Public BR,mix of breathing zone and moving area samples
+Hawley,5,NA,Personal,ppb,geomean,Peracetic acid,Float,mix of breathing zone and moving area samples
+Hawley,1,NA,Personal,ppb,mean,Peracetic acid,Floors,mix of breathing zone and moving area samples
+Hawley,13,NA,Personal,ppb,geomean,Acetic acid,Main OR,mix of breathing zone and moving area samples
+Hawley,145,NA,Personal,ppb,geomean,Acetic acid,WCBC,mix of breathing zone and moving area samples
+Hawley,75,NA,Personal,ppb,geomean,Acetic acid,"WCBC, Triage",mix of breathing zone and moving area samples
+Hawley,143,NA,Personal,ppb,geomean,Acetic acid,WCBC OR,mix of breathing zone and moving area samples
+Hawley,117,NA,Personal,ppb,geomean,Acetic acid,Acute and postpartum,mix of breathing zone and moving area samples
+Hawley,140,NA,Personal,ppb,geomean,Acetic acid,Medical surgical,mix of breathing zone and moving area samples
+Hawley,22,NA,Personal,ppb,geomean,Acetic acid,"Surgery, orthopedics",mix of breathing zone and moving area samples
+Hawley,84,NA,Personal,ppb,geomean,Acetic acid,ICU,mix of breathing zone and moving area samples
+Hawley,37,NA,Personal,ppb,geomean,Acetic acid,Oncology,mix of breathing zone and moving area samples
+Hawley,24,NA,Personal,ppb,geomean,Acetic acid,NICU,mix of breathing zone and moving area samples
+Hawley,27,NA,Personal,ppb,geomean,Acetic acid,Outpatient Clinic,mix of breathing zone and moving area samples
+Hawley,122,NA,Personal,ppb,mean,Acetic acid,Public BR,mix of breathing zone and moving area samples
+Hawley,63,NA,Personal,ppb,geomean,Acetic acid,Float,mix of breathing zone and moving area samples
+Hawley,6,NA,Personal,ppb,mean,Acetic acid,Floors,mix of breathing zone and moving area samples
+Hawley,26,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Main OR,mix of breathing zone and moving area samples
+Hawley,327,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",WCBC,mix of breathing zone and moving area samples
+Hawley,197,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid","WCBC, Triage",mix of breathing zone and moving area samples
+Hawley,335,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",WCBC OR,mix of breathing zone and moving area samples
+Hawley,193,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Acute and postpartum,mix of breathing zone and moving area samples
+Hawley,272,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Medical surgical,mix of breathing zone and moving area samples
+Hawley,48,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid","Surgery, orthopedics",mix of breathing zone and moving area samples
+Hawley,161,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",ICU,mix of breathing zone and moving area samples
+Hawley,110,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Oncology,mix of breathing zone and moving area samples
+Hawley,100,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",NICU,mix of breathing zone and moving area samples
+Hawley,45,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Outpatient Clinic,mix of breathing zone and moving area samples
+Hawley,151,NA,Personal,ppb,mean,"Hydrogen peroxcide, peracetic acid, acetic acid",Public BR,mix of breathing zone and moving area samples
+Hawley,107,NA,Personal,ppb,geomean,"Hydrogen peroxcide, peracetic acid, acetic acid",Float,mix of breathing zone and moving area samples
+Hawley,13,NA,Personal,ppb,mean,"Hydrogen peroxcide, peracetic acid, acetic acid",Floors,mix of breathing zone and moving area samples
+Hawley,12,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Main OR,mix of breathing zone and moving area samples
+Hawley,173,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,WCBC,mix of breathing zone and moving area samples
+Hawley,117,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,"WCBC, Triage",mix of breathing zone and moving area samples
+Hawley,191,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,WCBC OR,mix of breathing zone and moving area samples
+Hawley,73,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Acute and postpartum,mix of breathing zone and moving area samples
+Hawley,130,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Medical surgical,mix of breathing zone and moving area samples
+Hawley,22,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,"Surgery, orthopedics",mix of breathing zone and moving area samples
+Hawley,76,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,ICU,mix of breathing zone and moving area samples
+Hawley,52,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Oncology,mix of breathing zone and moving area samples
+Hawley,67,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,NICU,mix of breathing zone and moving area samples
+Hawley,18,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Outpatient Clinic,mix of breathing zone and moving area samples
+Hawley,29,NA,Personal,ppb,mean,Hydrogen peroxide and peraceteic acid,Public BR,mix of breathing zone and moving area samples
+Hawley,31,NA,Personal,ppb,geomean,Hydrogen peroxide and peraceteic acid,Float,mix of breathing zone and moving area samples
+Hawley,7,NA,Personal,ppb,mean,Hydrogen peroxide and peraceteic acid,Floors,mix of breathing zone and moving area samples
+Binding,0.43,NA,Personal,ppm,point value,Formaldehyde,"Peak concentration, operating theater",TRGS 402
+Binding,0.03,NA,Personal,ppm,point value,Glutaradialdehyde,"Peak concentration, operating theater",TRGS 402
+Binding,0.18,NA,Personal,ppm,mean,Formaldehyde,"8 hour shift concentration, operating room",TRGS 402
+Binding,0.01,NA,Personal,ppm,point value,Glutaradialdehyde,"8 hour shift concentration, operating room",TRGS 402
+Binding,0.23,NA,Personal,ppm,point value,Formaldehyde,"Over whole cleaning time, operating theater",TRGS 402
+Binding,0.01,NA,Personal,ppm,point value,Glutaradialdehyde,"Over whole cleaning time, operating theater",TRGS 402
+Leinster,0.055,NA,Personal,mg/m^3,median,Glutaraldehyde,"Activating CIDEX and filling empty tanks, endoscopy","Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+Leinster,0.022,NA,Personal,mg/m^3,median,Glutaraldehyde,Endoscope cleaning,"Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+Leinster,0.014,NA,Personal,mg/m^3,median,Glutaraldehyde,Endoscope cleaning,"Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+Leinster,0.014,NA,Personal,mg/m^3,median,Glutaraldehyde,Theater cleaning,"Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+Leinster,0.17,NA,Personal,mg/m^3,median,Glutaraldehyde,Cleaning suction bottles,"Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+Leinster,0.01,NA,Personal,mg/m^3,median,Glutaraldehyde,Cleaning equpment in haemophilia center,"Personal exposures were determined from samplers worn by individual workers, with the sampling head located in the breathing zone"
+LeBouf,0.73,NA,Mobile-area,ug/m^3,geomean,Benzene,Nursing assistant,
+LeBouf,2.2,NA,Personal,ug/m^3,geomean,Benzene,Nursing assistant,
+LeBouf,1.1,NA,Mobile-area,ug/m^3,geomean,Benzene,Licensed practical nurse,
+LeBouf,4.2,NA,Personal,ug/m^3,geomean,Benzene,Licensed practical nurse,
+LeBouf,0.42,NA,Mobile-area,ug/m^3,geomean,Benzene,Medical equipment preparer,
+LeBouf,0.15,NA,Personal,ug/m^3,geomean,Benzene,Medical equipment preparer,
+LeBouf,0.73,NA,Mobile-area,ug/m^3,geomean,Benzene,Respiratory therapist,
+LeBouf,0.64,NA,Personal,ug/m^3,geomean,Benzene,Respiratory therapist,
+LeBouf,1.1,NA,Mobile-area,ug/m^3,geomean,Benzene,Pharmacist/pharmacy technician,
+LeBouf,1.2,NA,Personal,ug/m^3,geomean,Benzene,Pharmacist/pharmacy technician,
+LeBouf,0.68,NA,Mobile-area,ug/m^3,geomean,Benzene,Floor stripper/waxer,
+LeBouf,0.88,NA,Personal,ug/m^3,geomean,Benzene,Floor stripper/waxer,
+LeBouf,0.69,NA,Mobile-area,ug/m^3,geomean,Benzene,Registered nurse,
+LeBouf,1.1,NA,Personal,ug/m^3,geomean,Benzene,Registered nurse,
+LeBouf,0.88,NA,Mobile-area,ug/m^3,geomean,Benzene,Dental assistant,
+LeBouf,Below LOD,0.083,Personal,ug/m^3,geomean,Benzene,Dental assistant,
+LeBouf,0.5,NA,Mobile-area,ug/m^3,geomean,Benzene,Housekeeper,
+LeBouf,0.7,NA,Personal,ug/m^3,geomean,Benzene,Housekeeper,
+LeBouf,0.45,NA,Mobile-area,ug/m^3,geomean,Benzene,Surgical technologist,
+LeBouf,0.98,NA,Personal,ug/m^3,geomean,Benzene,Surgical technologist,
+LeBouf,0.59,NA,Mobile-area,ug/m^3,geomean,Benzene,Endoscopy technician,
+LeBouf,0.17,NA,Personal,ug/m^3,geomean,Benzene,Endoscopy technician,
+LeBouf,0.68,NA,Mobile-area,ug/m^3,geomean,Benzene,Clinical laboratory technician,
+LeBouf,Below LOD,0.083,Personal,ug/m^3,geomean,Benzene,Clinical laboratory technician,
+LeBouf,0.74,NA,Mobile-area,ug/m^3,geomean,Benzene,Medical appliance technician,
+LeBouf,0.83,NA,Personal,ug/m^3,geomean,Benzene,Medical appliance technician,
+LeBouf,0.93,NA,Mobile-area,ug/m^3,geomean,Benzene,Dental laboratory technician,
+LeBouf,Below LOD,0.083,Personal,ug/m^3,geomean,Benzene,Dental laboratory technician,
+LeBouf,4,NA,Mobile-area,ug/m^3,geomean,Toluene,Nursing assistant,
+LeBouf,9.9,NA,Personal,ug/m^3,geomean,Toluene,Nursing assistant,
+LeBouf,6.9,NA,Mobile-area,ug/m^3,geomean,Toluene,Licensed practical nurse,
+LeBouf,28.8,NA,Personal,ug/m^3,geomean,Toluene,Licensed practical nurse,
+LeBouf,2.3,NA,Mobile-area,ug/m^3,geomean,Toluene,Medical equipment preparer,
+LeBouf,7.5,NA,Personal,ug/m^3,geomean,Toluene,Medical equipment preparer,
+LeBouf,17.3,NA,Mobile-area,ug/m^3,geomean,Toluene,Respiratory therapist,
+LeBouf,28.9,NA,Personal,ug/m^3,geomean,Toluene,Respiratory therapist,
+LeBouf,11.1,NA,Mobile-area,ug/m^3,geomean,Toluene,Pharmacist/pharmacy technician,
+LeBouf,5.5,NA,Personal,ug/m^3,geomean,Toluene,Pharmacist/pharmacy technician,
+LeBouf,3.8,NA,Mobile-area,ug/m^3,geomean,Toluene,Floor stripper/waxer,
+LeBouf,20.7,NA,Personal,ug/m^3,geomean,Toluene,Floor stripper/waxer,
+LeBouf,4,NA,Mobile-area,ug/m^3,geomean,Toluene,Registered nurse,
+LeBouf,5.1,NA,Personal,ug/m^3,geomean,Toluene,Registered nurse,
+LeBouf,11.5,NA,Mobile-area,ug/m^3,geomean,Toluene,Dental assistant,
+LeBouf,28.7,NA,Personal,ug/m^3,geomean,Toluene,Dental assistant,
+LeBouf,4,NA,Mobile-area,ug/m^3,geomean,Toluene,Housekeeper,
+LeBouf,23.6,NA,Personal,ug/m^3,geomean,Toluene,Housekeeper,
+LeBouf,2,NA,Mobile-area,ug/m^3,geomean,Toluene,Surgical technologist,
+LeBouf,112,NA,Personal,ug/m^3,geomean,Toluene,Surgical technologist,
+LeBouf,4.9,NA,Mobile-area,ug/m^3,geomean,Toluene,Endoscopy technician,
+LeBouf,9.8,NA,Personal,ug/m^3,geomean,Toluene,Endoscopy technician,
+LeBouf,10.3,NA,Mobile-area,ug/m^3,geomean,Toluene,Clinical laboratory technician,
+LeBouf,162,NA,Personal,ug/m^3,geomean,Toluene,Clinical laboratory technician,
+LeBouf,8.6,NA,Mobile-area,ug/m^3,geomean,Toluene,Medical appliance technician,
+LeBouf,137,NA,Personal,ug/m^3,geomean,Toluene,Medical appliance technician,
+LeBouf,10.6,NA,Mobile-area,ug/m^3,geomean,Toluene,Dental laboratory technician,
+LeBouf,8.8,NA,Personal,ug/m^3,geomean,Toluene,Dental laboratory technician,
+LeBouf,0.35,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Nursing assistant,
+LeBouf,1.2,NA,Personal,ug/m^3,geomean,Ethylbenzene,Nursing assistant,
+LeBouf,1.4,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Licensed practical nurse,
+LeBouf,2.1,NA,Personal,ug/m^3,geomean,Ethylbenzene,Licensed practical nurse,
+LeBouf,0.55,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Medical equipment preparer,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Medical equipment preparer,
+LeBouf,1.2,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Respiratory therapist,
+LeBouf,0.51,NA,Personal,ug/m^3,geomean,Ethylbenzene,Respiratory therapist,
+LeBouf,2.3,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Pharmacist/pharmacy technician,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Pharmacist/pharmacy technician,
+LeBouf,1.5,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Floor stripper/waxer,
+LeBouf,1.4,NA,Personal,ug/m^3,geomean,Ethylbenzene,Floor stripper/waxer,
+LeBouf,0.37,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Registered nurse,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Registered nurse,
+LeBouf,0.89,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Dental assistant,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Dental assistant,
+LeBouf,0.44,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Housekeeper,
+LeBouf,0.5,NA,Personal,ug/m^3,geomean,Ethylbenzene,Housekeeper,
+LeBouf,Below LOD,0.16,Mobile-area,ug/m^3,geomean,Ethylbenzene,Surgical technologist,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Surgical technologist,
+LeBouf,0.45,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Endoscopy technician,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Endoscopy technician,
+LeBouf,4.1,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Clinical laboratory technician,
+LeBouf,2.7,NA,Personal,ug/m^3,geomean,Ethylbenzene,Clinical laboratory technician,
+LeBouf,Below LOD,0.16,Mobile-area,ug/m^3,geomean,Ethylbenzene,Medical appliance technician,
+LeBouf,4.7,NA,Personal,ug/m^3,geomean,Ethylbenzene,Medical appliance technician,
+LeBouf,0.23,NA,Mobile-area,ug/m^3,geomean,Ethylbenzene,Dental laboratory technician,
+LeBouf,Below LOD,0.16,Personal,ug/m^3,geomean,Ethylbenzene,Dental laboratory technician,
+LeBouf,1.4,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Nursing assistant,
+LeBouf,5.4,NA,Personal,ug/m^3,geomean,"m,p-xylene",Nursing assistant,
+LeBouf,3.8,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Licensed practical nurse,
+LeBouf,8,NA,Personal,ug/m^3,geomean,"m,p-xylene",Licensed practical nurse,
+LeBouf,1.8,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Medical equipment preparer,
+LeBouf,0.35,NA,Personal,ug/m^3,geomean,"m,p-xylene",Medical equipment preparer,
+LeBouf,3.3,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Respiratory therapist,
+LeBouf,4,NA,Personal,ug/m^3,geomean,"m,p-xylene",Respiratory therapist,
+LeBouf,12.7,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Pharmacist/pharmacy technician,
+LeBouf,1.2,NA,Personal,ug/m^3,geomean,"m,p-xylene",Pharmacist/pharmacy technician,
+LeBouf,6.2,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Floor stripper/waxer,
+LeBouf,7.7,NA,Personal,ug/m^3,geomean,"m,p-xylene",Floor stripper/waxer,
+LeBouf,1.2,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Registered nurse,
+LeBouf,0.39,NA,Personal,ug/m^3,geomean,"m,p-xylene",Registered nurse,
+LeBouf,5.7,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Dental assistant,
+LeBouf,Below LOD,0.18,Personal,ug/m^3,geomean,"m,p-xylene",Dental assistant,
+LeBouf,1.9,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Housekeeper,
+LeBouf,1.9,NA,Personal,ug/m^3,geomean,"m,p-xylene",Housekeeper,
+LeBouf,0.39,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Surgical technologist,
+LeBouf,1.8,NA,Personal,ug/m^3,geomean,"m,p-xylene",Surgical technologist,
+LeBouf,1.9,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Endoscopy technician,
+LeBouf,0.63,NA,Personal,ug/m^3,geomean,"m,p-xylene",Endoscopy technician,
+LeBouf,14.1,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Clinical laboratory technician,
+LeBouf,25.6,NA,Personal,ug/m^3,geomean,"m,p-xylene",Clinical laboratory technician,
+LeBouf,0.75,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Medical appliance technician,
+LeBouf,28.6,NA,Personal,ug/m^3,geomean,"m,p-xylene",Medical appliance technician,
+LeBouf,2,NA,Mobile-area,ug/m^3,geomean,"m,p-xylene",Dental laboratory technician,
+LeBouf,Below LOD,0.18,Personal,ug/m^3,geomean,"m,p-xylene",Dental laboratory technician,
+LeBouf,0.38,NA,Personal,ug/m^3,geomean,o-xylene,Nursing assistant,
+LeBouf,1.5,NA,Mobile-area,ug/m^3,geomean,o-xylene,Nursing assistant,
+LeBouf,1.4,NA,Personal,ug/m^3,geomean,o-xylene,Licensed practical nurse,
+LeBouf,2.6,NA,Mobile-area,ug/m^3,geomean,o-xylene,Licensed practical nurse,
+LeBouf,0.58,NA,Personal,ug/m^3,geomean,o-xylene,Medical equipment preparer,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Medical equipment preparer,
+LeBouf,1.2,NA,Personal,ug/m^3,geomean,o-xylene,Respiratory therapist,
+LeBouf,1,NA,Mobile-area,ug/m^3,geomean,o-xylene,Respiratory therapist,
+LeBouf,1.8,NA,Personal,ug/m^3,geomean,o-xylene,Pharmacist/pharmacy technician,
+LeBouf,0.45,NA,Mobile-area,ug/m^3,geomean,o-xylene,Pharmacist/pharmacy technician,
+LeBouf,2.1,NA,Personal,ug/m^3,geomean,o-xylene,Floor stripper/waxer,
+LeBouf,1.3,NA,Mobile-area,ug/m^3,geomean,o-xylene,Floor stripper/waxer,
+LeBouf,0.6,NA,Personal,ug/m^3,geomean,o-xylene,Registered nurse,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Registered nurse,
+LeBouf,1.2,NA,Personal,ug/m^3,geomean,o-xylene,Dental assistant,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Dental assistant,
+LeBouf,0.45,NA,Personal,ug/m^3,geomean,o-xylene,Housekeeper,
+LeBouf,0.73,NA,Mobile-area,ug/m^3,geomean,o-xylene,Housekeeper,
+LeBouf,Below LOD,0.19,Personal,ug/m^3,geomean,o-xylene,Surgical technologist,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Surgical technologist,
+LeBouf,0.33,NA,Personal,ug/m^3,geomean,o-xylene,Endoscopy technician,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Endoscopy technician,
+LeBouf,3.9,NA,Personal,ug/m^3,geomean,o-xylene,Clinical laboratory technician,
+LeBouf,2.9,NA,Mobile-area,ug/m^3,geomean,o-xylene,Clinical laboratory technician,
+LeBouf,Below LOD,0.19,Personal,ug/m^3,geomean,o-xylene,Medical appliance technician,
+LeBouf,7,NA,Mobile-area,ug/m^3,geomean,o-xylene,Medical appliance technician,
+LeBouf,Below LOD,0.19,Personal,ug/m^3,geomean,o-xylene,Dental laboratory technician,
+LeBouf,Below LOD,0.19,Mobile-area,ug/m^3,geomean,o-xylene,Dental laboratory technician,
+Chen,0.23,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,0.83,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,0.17,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,0.16,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,0.34,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,1.6,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,1,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
+Chen,2.1,NA,Personal,ug/m^3,geomean,ortho-pthlalaldehyde (OPA),Employees working in areas with OPA in healthcare,
